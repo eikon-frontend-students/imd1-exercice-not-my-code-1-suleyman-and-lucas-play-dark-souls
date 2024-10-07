@@ -604,6 +604,13 @@ nav.navbar.bootsnav .navbar-toggle i{color: #3b9c1e;}
 --------------------------------------*/
 .reviews{padding:117px 0 75px;}
 .reviews-content {margin-top:36px;}
+.reviews-content p {
+    font-size: 16px;
+    color: #8d939e;
+    font-weight: 400;
+    margin-top: 20px;
+    text-align: center;
+}   
 
 /*single-testimonial-box */
 .single-testimonial-box  {
